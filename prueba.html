@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="Usuario" content="Informacion" /> 
+<meta name="keywords" content="HTML5, CSS3, JavaScript" /> 
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" type="text/css" href="estilos.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+
+    <style>
+
+        body {
+        font-family: sans-serif;
+        }
+
+        .respmenu a {
+        color: inherit;
+        text-decoration: none;
+        display: block;
+        padding: 10px 20px;
+        border-bottom: 2px solid #456789;
+        max-width: 200px;
+        background: #234567;
+        font-variant: small-caps;
+        text-shadow: 1px 1px black;
+        }
+
+                .respmenu input[type="checkbox"], .respmenu .fa-bars, .respmenu .fa-times {
+                position: absolute;
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+                right: 0;
+                top: 0;
+                width: 30px;
+                height: 30px;
+                background-color: blue;
+                }
+
+                .respmenu .fa-bars, .respmenu .fa-times {
+                font-size: 30px;
+                pointer-events: none;
+                }
+
+                .respmenu input[type="checkbox"] {
+                opacity: 0;
+                }
+
+                .respmenu {
+                color: white;
+                position: relative;
+                background: #123456;
+                min-height: 48px;
+                }
+
+                .respmenu nav {
+                display: none;
+                }
+
+                .respmenu input:checked ~ nav {
+                display: block;
+                }
+
+                .respmenu input:checked ~ .fa-bars {
+                display: none;
+                }
+
+                .respmenu input:not(:checked) ~ .fa-times {
+                display: none;
+                }
+                .respmenu input[type="checkbox"], .respmenu .fa-bars, .respmenu .fa-times {
+                right: initial;
+                left: 0;
+                }
+
+                .respmenu {
+                padding-top: 48px;
+                min-height: initial;
+                }
+
+    </style>
+
+</head>
+
+<body>
+    
+    <div class="respmenu">
+        <input type="checkbox">
+        <i class="fas fa-bars"></i>
+        <i class="fas fa-times"></i>
+        <nav>
+          <ul>
+            <li><a href="#">Mi cuenta</a></li>
+            <li><a href="#">Mis productos</a></li>
+            <li><a href="#">Configuracion</a></li>
+            <li><a href="#">Item 4</a></li>
+            <li><a href="#">Item 5</a></li>
+          </ul>
+        </nav>
+      </div>
+
+</body>
+
+</head>
+</html>

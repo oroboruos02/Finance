@@ -1,0 +1,182 @@
+.lateral{
+    background-color: rgb(255, 255, 255); 
+    width: 20%; 
+    height: 800px;
+    padding: 10px;
+    float:left;
+    font-family: Arial, Helvetica, sans-serif;
+     
+}
+.cabecera{
+    background-color: white; 
+    width: 80%; 
+    height: 70px;
+    padding: 10px;
+    float:left;
+    font-family: Arial, Helvetica, sans-serif; 
+
+}
+.cuerpo{
+    background-color: rgb(255, 255, 255); 
+    width: 80%; 
+    height: 700px;
+    padding: 10px;
+    float:left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.opcion{
+    vertical-align: top;
+    border: 1px;
+    padding: 2px;
+    display: inline-block;
+    width: auto;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.opcion2{
+    margin-top: 4px;
+    float:right;
+    width: 15%;
+    max-width: 110px;
+    max-height: 50px;
+    word-wrap: break-word;
+    overflow: hidden;
+    padding: 5px 10px;
+}
+.opcion3{
+    float:right;
+    width: 15%;
+    max-height: 61px;
+    word-wrap: break-word;
+    overflow: hidden;
+    margin-right: 44%;   
+    padding: 1px;
+    text-align: center;
+}
+.item1{
+    background-color: rgb(255, 255, 255);            
+    margin: 50px;
+    padding:auto;
+    width: 13%;
+    height: 100px;
+    display: inline-block;
+    border-left: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style:solid;
+    margin-top: 60%;
+        
+}
+.item2{
+    background-color: rgb(255, 255, 255);            
+    margin: 50px;
+    padding: auto;
+    width: 13%;
+    height: 100px;
+    display: inline-block;
+    border-left: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    align-items: center;  
+}
+.item3{
+    background-color: white;            
+    margin: 50px;
+    padding: auto;
+    width: 13%;
+    height: 100px;
+    display: inline-block;
+    border-left: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+}
+.icons1{
+    float: left;
+    width: 80px;
+}
+.tabla{
+    background-color: white;            
+    margin: 30px;
+    padding: auto;
+    width: 80%;
+    height: 300px;
+    margin-left: 120px;
+    border-width: 3px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;  
+}
+@media (max-width:745px){ 
+.opcion{
+    background-color: rgb(10, 219, 21);
+    min-width: 35px;
+    width: 20%;
+    padding: 4px 10px;
+    margin-left: 17%;
+    }
+.opcion2{
+    background-color: rgb(10, 219, 21);
+    min-width: 35px;
+    width: 0%;
+    padding: 17px 10px;
+    margin-right: 1%;  
+    }
+.opcion3{
+    width: 20%;
+    padding: 4px 10px;
+    margin-right: 10%;   
+    min-width: 130px;
+    }
+.lateral{
+    background-color: rgb(255, 255, 255); 
+    width: 5px;
+    min-width:5px; 
+    height: 1000px;
+    padding: 5px
+    }
+.cabecera{
+    background-color: white; 
+    width: 100%; 
+    min-width:7px; 
+    height: 70px;
+    padding: 10px;
+    float:none;
+    border-bottom: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: dashed; 
+}
+.item1{
+    background-color: rgb(255, 255, 255);            
+    margin: 30px;
+    margin-bottom:50px;
+    padding: 30px;
+    width: 15%;
+    height: 100px;
+    display: flex;
+    
+    border-left: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;  
+}
+.item2{
+    background-color: white;            
+    margin: 30px;
+    padding: 8px 12px;
+    width: 15%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    border-left: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;       
+}
+.item3{
+    background-color: white;            
+    margin: 30px;
+    padding: auto;
+    width: 15%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    border-left: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+}
+}
