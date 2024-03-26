@@ -19,9 +19,6 @@ Index principal
 Login
 ![Mi Captura de Pantalla](https://github.com/oroboruos02/Proyecto-Finance/blob/main/Screenshot%20finance2.png)
 
-
-[Página Principal del Repositorio](https://oroboruos02.github.io/Proyecto-Finance/)
-
 ### componentes
 Otro proyecto emocionante ha sido la creacion de componentes para aplicaciones en colaboracion con otros desarrolladores tales como:
 - formularios de logueo, contacto Tablas CRUD etc...
@@ -39,6 +36,9 @@ Otro proyecto emocionante ha sido la creacion de componentes para aplicaciones e
 - Diseño de Arquitecturas de Software
 - Pruebas Unitarias e Integración
 - Colaboración en Equipos
+
+Echale un vistazo a la aplicacion directamente de GitHub Pages en el siguiente enlace:
+[Página Principal del Repositorio](https://oroboruos02.github.io/Proyecto-Finance/)
 
 ## Autor
 
