@@ -8,6 +8,17 @@
 Este proyecto se creo con la nesecidad de poder invertir el dinero ganado de cada empleado mes a mes inviertiendo un pequeño porcentaje
 del sueldo de cada empleado que quisera invertir su dinero en un ahorro a largo plazo.
 
+## Captura de Pantalla
+
+Aquí tienes una captura de pantalla de mi increíble proyecto:
+
+![Mi Captura de Pantalla](https://github.com/oroboruos02/Proyecto-Finance/blob/main/Screenshot%20finance.png)
+![Mi Captura de Pantalla](https://github.com/oroboruos02/Proyecto-Finance/blob/main/Screenshot%20finance1.png)
+![Mi Captura de Pantalla](https://github.com/oroboruos02/Proyecto-Finance/blob/main/Screenshot%20finance2.png)
+
+
+[Página Principal del Repositorio](https://oroboruos02.github.io/Proyecto-Finance/)
+
 ### componentes
 Otro proyecto emocionante ha sido la creacion de componentes para aplicaciones en colaboracion con otros desarrolladores tales como:
 - formularios de logueo, contacto Tablas CRUD etc...
@@ -25,6 +36,14 @@ Otro proyecto emocionante ha sido la creacion de componentes para aplicaciones e
 - Diseño de Arquitecturas de Software
 - Pruebas Unitarias e Integración
 - Colaboración en Equipos
+
+## Autor
+
+Este proyecto fue desarrollado por [Divar Parra](https://github.com/oroboruos02).
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Cómo Contactarme
 
