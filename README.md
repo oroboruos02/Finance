@@ -12,8 +12,11 @@ del sueldo de cada empleado que quisera invertir su dinero en un ahorro a largo 
 
 Aquí tienes una captura de pantalla de mi increíble proyecto:
 
+Index principal
 ![Mi Captura de Pantalla](https://github.com/oroboruos02/Proyecto-Finance/blob/main/Screenshot%20finance.png)
 ![Mi Captura de Pantalla](https://github.com/oroboruos02/Proyecto-Finance/blob/main/Screenshot%20finance1.png)
+
+Login
 ![Mi Captura de Pantalla](https://github.com/oroboruos02/Proyecto-Finance/blob/main/Screenshot%20finance2.png)
 
 
